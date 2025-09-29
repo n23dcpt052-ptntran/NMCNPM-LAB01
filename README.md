@@ -1,4 +1,6 @@
-# NMCNPM-LAB01
+# NMCNPM
+
+# LAB01
 # Giới thiệu
 Họ và tên: Phạm Thị Ngọc Trân
 MSSV: N23DCPT052
