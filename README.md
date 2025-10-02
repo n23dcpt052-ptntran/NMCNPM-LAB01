@@ -1,14 +1,10 @@
-**Học viện: Học viện Công nghệ Bưu chính Viễn thông (PTIT HCM)**
-**Sinh viên: Phạm Thị Ngọc Trân**
-**MSSV: N23DCPT052**
+# NHẬP MÔN CÔNG NGHỆ PHẦN MỀM - N23DCPT052
 
-## Giới thiệu bản thân
-- 👋 Xin chào, tôi là Ngọc Trân.
-- 🎯 Mục tiêu: Hoàn thành môn học Nhập môn Công nghệ phần mềm.
-- 📚 Môn học hiện tại: Nhập môn Công nghệ Phần mềm.
-
-## Nội dung repository
-Repository này sẽ lưu trữ tất cả các bài tập, đồ án và tài liệu liên quan đến môn học.
+## 📋 Thông tin sinh viên
+- **Họ tên:** Phạm Thị Ngọc Trần
+- **MSSV:** N23DCPT052
+- **Môn học:** Nhập môn Công nghệ Phần mềm
+- **Trường:** Học viện Công nghệ Bưu chính Viễn thông (PTIT HCM)
 
 ## 🗂️ Cấu trúc Project
 
@@ -42,7 +38,7 @@ Repository này sẽ lưu trữ tất cả các bài tập, đồ án và tài l
 1. Phân tích yêu cầu
 2. Thiết kế Use Case & Sequence Diagram
 3. Code implementation
-4. Testing & Validation
+4. Testing & Validation  
 5. Documentation & Version Control
 
 ## 🔗 Links
