@@ -1,0 +1,35 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Login Test</title>
+        <style>
+            body { font-family: Arial; margin: 50px; }
+            .container { max-width: 300px; margin: auto; }
+            input, button { width: 100%; padding: 10px; margin: 5px 0; }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <h2>ATM Login</h2>
+            <input type="text" id="username" placeholder="Username">
+            <input type="password" id="password" placeholder="Password">
+            <button onclick="login()">Login</button>
+            <div id="message"></div>
+        </div>
+        <script>
+            function login() {
+                const user = document.getElementById('username').value;
+                const pass = document.getElementById('password').value;
+                const msg = document.getElementById('message');
+                
+                if (user === 'admin' && pass === 'password123') {
+                    msg.innerHTML = '<p style="color:green">Login successful!</p>';
+                } else {
+                    msg.innerHTML = '<p style="color:red">Login failed!</p>';
+                }
+            }
+        </script>
+    </body>
+    </html>
+    
