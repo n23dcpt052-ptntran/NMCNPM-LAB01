@@ -6,7 +6,7 @@
 - **Môn học:** Nhập môn Công nghệ Phần mềm
 - **Trường:** Học viện Công nghệ Bưu chính Viễn thông (PTIT HCM)
 
-<<<<<<< HEAD
+
 ## 🗂️ Cấu trúc Project
 
 ## 📊 Tổng quan các Lab
@@ -55,4 +55,4 @@
 =======
 ## Kết nối với tôi
 - GitHub: [n23dcpt052-ptntran](https://github.com/n23dcpt052-ptntran)
->>>>>>> 76b15eb4bb4a0221596620502d7ff0d37d2f804c
+
