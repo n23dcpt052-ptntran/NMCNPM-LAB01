@@ -1,9 +1,9 @@
 # BÁO CÁO CUỐI KỲ: MINI PROJECT ATM SYSTEM
 
 ## Thông tin sinh viên
-- **Họ tên:** [Họ tên sinh viên]
-- **MSSV:** [Mã số sinh viên]
-- **Lớp:** N23DCPT052
+- **Họ tên:** Phạm Thị Ngọc Trân
+- **MSSV:** N23DCPT052
+- **Lớp:** D23CQPTTK01-N
 - **Môn học:** Nhập môn Công nghệ Phần mềm
 
 ## 1. Giới thiệu dự án ATM Mini-Project
